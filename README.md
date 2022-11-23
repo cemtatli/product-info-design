@@ -4,7 +4,7 @@ Uidesigndaily'den aldığım tasarımı kodladım.
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/cazkjqy.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2uea15q.png)
 
 
 ## Demo
