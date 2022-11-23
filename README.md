@@ -6,6 +6,12 @@ Uidesigndaily'den aldığım tasarımı kodladım.
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/cazkjqy.png)
 
+
+## Demo
+
+https://product-info-design.netlify.app/
+
+ 
 ## Tasarım
 
 Tasarımın kaynağına linkten ulaşabilirsiniz.
